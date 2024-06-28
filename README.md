@@ -13,7 +13,8 @@ This project aims to learn real-time data processing and analysis using AWS Kine
 8. IDE DBeaver
 
 ## Architecture
-![Architecture Diagram](path_to_your_diagram.png)
+![proje mimarisi](https://github.com/mmehmetisik/Real-Time-Data-Processing-and-Analysis-with-AWS-Kinesis-and-Redshift/assets/64706956/82e40b07-e4cd-4286-a466-4d058680786a)
+
 
 ## Scenario
 The project involves processing cryptocurrency data obtained from the Binance API in real-time using AWS EC2, S3, Kinesis Streams, and Kinesis Firehose to transfer the data to AWS Redshift. During this process, data will be continuously streamed through Kinesis Streams, stored in S3, and finally directed to Redshift for analysis and visualization.
